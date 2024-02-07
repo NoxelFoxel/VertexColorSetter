@@ -1,6 +1,6 @@
 # Vertex Alpha Setter
 
-Simple Addon for blender, for setting your vertex alpha channel in specific tones
+Simple Addon for Blender, for setting your vertex colors in specific tones (with alpha)
 
 ## Installation
 
@@ -18,13 +18,13 @@ Install like any addon, -> Preferences -> Addons -> Install
 
 3.Select the Tool, Toolbar
 
-4.Use the slider to set a value
+4.Select color
 
-5.Press "Set Vertex Alpha"
+5.Press "Set Vertex Color"
 
 Profit
 ```
-![Test Image 1](https://github.com/Desayuno64/VertexAlphaSetter/blob/main/Tool.png)
+![Test Image 1](Tool.png)
 
 ## Notes
 
