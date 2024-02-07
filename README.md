@@ -5,24 +5,24 @@ Simple Addon for Blender, for setting your vertex colors in specific tones (with
 ## Installation
 
 ```
-Install like any addon, -> Preferences -> Addons -> Install
-(You only need the .py)
+Install like any addon:
+Edit -> Preferences -> Addons -> Install
 ```
 
 ## Usage
 
 ```
-1.Travel to the Viewport
+1. Travel to the Viewport
 
-2.Select the vertices you want to change
+2. Select the vertices you want to change
 
-3.Select the Tool, Toolbar
+3. Select the Tool, Toolbar
 
-4.Select color
+4. Select color
 
-5.Press "Set Vertex Color"
+5. Press "Set Vertex Color"
 
-Profit
+6. Profit
 ```
 ![Test Image 1](Tool.png)
 
